@@ -42,7 +42,7 @@ python startup.py -a
 * 样例1：情绪管理
 
 <p align="center">
-    <img src="./imgs/chat01.jpg" width=600px/>
+    <img src="./imgs/chat010.jpg" width=600px/>
 </p>
 
 
